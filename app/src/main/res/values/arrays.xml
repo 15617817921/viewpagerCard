@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--主页-文字-->
+    <string-array name="home_text_up">
+        <item>物品包明细</item>1
+        <item>使用人登记</item>2
+        <item>请领发放单</item>3
+    </string-array>
+
+    <integer-array name="pagers">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+
+    </integer-array>
+
+
+</resources>
